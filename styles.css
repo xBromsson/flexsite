@@ -35,6 +35,7 @@ body{
 }
 
 .hero-section{
+    justify-content: center;
     display: flex;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -58,18 +59,58 @@ body{
     color: #E5E7EB;
 }
 
+.services-section{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.services-list{
+    justify-content: center;
+    gap: 30px;
+    display: flex;
+    
+}
+
+.services-list .item{
+    flex: 1;
+    
+}
+
+.service-image{
+    padding: 50px;
+    border: solid #3882F6;
+    border-radius: 5px;
+}
+
 h1{
     font-size: 48px;
     font-weight: extra-bold;
     font-family: Roboto;
     color: #F9FAF8;
+    margin-bottom: -10px;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: extra-bold;
+    font-family: Roboto;
+    padding-bottom: 35px;
+    color: #1F2937;
 }
 
 p{
     font-size: 18px;
     font-family: Roboto;
     color: #E5E7EB;
-    margin-top: -15px;
+}
+
+p.sub{
+    font-size: 18px;
+    font-family: Roboto;
+    color: #7a7a7a;
 }
 
 button{
