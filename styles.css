@@ -1,0 +1,81 @@
+.header{
+    display: flex;
+    padding: 25px;
+    padding-left: 400px;
+    padding-right: 400px;
+    background-color: #1F2937;
+}
+
+.header div {
+    flex: 1;
+}
+
+.logo{
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.nav-container{
+    display: flex;
+
+}
+
+.nav-container div{
+    display: flex;
+    justify-content: end;
+    font-size: 18px;
+    font-family: Roboto;
+    color: #E5E7EB;
+}
+
+body{
+
+}
+
+.hero-section{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+    background-color: #1F2937;
+    gap: 50px;
+}
+
+.hero-section div{
+    flex: 1;
+}
+
+.hero-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    font-size: 18px;
+    font-family: Roboto;
+    color: #E5E7EB;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: extra-bold;
+    font-family: Roboto;
+    color: #F9FAF8;
+}
+
+p{
+    font-size: 18px;
+    font-family: Roboto;
+    color: #E5E7EB;
+    margin-top: -15px;
+}
+
+button{
+    border: none;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
