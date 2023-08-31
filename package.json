@@ -1,0 +1,27 @@
+{
+  "name": "flexsite",
+  "version": "1.0.0",
+  "description": "My first use of flexbox in css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBromsson/flexsite.git"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "html"
+  ],
+  "author": "Marvin Brown",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xBromsson/flexsite/issues"
+  },
+  "homepage": "https://github.com/xBromsson/flexsite#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
