@@ -23,7 +23,7 @@ This is a website example showing my first use of flexbox. 💪
 
 _No new features are currently planned for this project._
 
-\_Feel free to contribute your own ideas to this project.
+_Feel free to contribute your own ideas to this project._
 
 ---
 
